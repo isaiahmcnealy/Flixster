@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
         movies = new ArrayList<>();
 
 
-;
+
         // Create an adapter
         final MovieAdapter movieAdapter = new MovieAdapter(this, movies);
 
